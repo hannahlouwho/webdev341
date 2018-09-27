@@ -1,0 +1,7 @@
+1.)IP addresses transfer data between one another. This information is in packages that transfer from IP adress to IP address until they find their destination.
+
+2.)An IP address is an address given to a computer to identify it on any given network. Basically its a computer ID card. A DNS address is a Domain Name Service. This is used to convert alphabetic references into a server's IP address generally for hosting services. Kinda like how people have numbers in a phone book but they really have names.
+
+3.)A web cookie/internet cookie/browser cookie, is a small piece of data sent from a website and stored on a user's computer by the user's web browser while the user is browsing. Too bad its not a real cookie.
+
+4.)The protocol, the paths, and the resource ID. 
